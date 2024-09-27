@@ -1,0 +1,20 @@
+.h1 {
+    margin: 0;
+    background-color: grey;
+    padding: 20px;
+}
+
+
+.todo-container {
+    
+    width: 300px;
+    position: absolute;
+    left: 670px;
+    top: 200px;
+    text-align: center;
+    transform: translate(-50% ,-50%);
+}
+
+.section-one{
+    padding: 20px;
+}
